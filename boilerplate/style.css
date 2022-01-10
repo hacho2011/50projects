@@ -9,6 +9,7 @@ body {
   height: 100vh;
   margin: 0;
   display: flex;
+  justify-content: center;
   flex-direction: column;
   overflow: hidden;
   align-items: center;
